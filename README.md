@@ -1,2 +1,2 @@
 # JAVASCRIPT
-This repositories is an explanation of Javascript language.
+This repository is an explanation of Javascript language.
