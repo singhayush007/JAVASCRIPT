@@ -1,2 +1,2 @@
-# javascript---rep
-This repositories is about Javascript language.
+# JAVASCRIPT
+This repositories is an explanation of Javascript language.
