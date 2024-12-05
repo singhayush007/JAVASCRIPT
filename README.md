@@ -1,2 +1,2 @@
 # javascript---rep
-This repo is for Javascript language 
+This repositories is about Javascript language.
